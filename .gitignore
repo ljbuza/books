@@ -1,0 +1,5 @@
+webpack-stats.json
+*.pyc
+node_modules/
+bundles/
+.vscode/
