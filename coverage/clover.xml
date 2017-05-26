@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1491755021126" clover="3.2.0">
+  <project timestamp="1491755021126" name="All files">
+    <metrics statements="33" coveredstatements="9" conditionals="10" coveredconditionals="0" methods="16" coveredmethods="4" elements="59" coveredelements="13" complexity="0" loc="33" ncloc="33" packages="2" files="3" classes="3">
+      <package name="components">
+        <metrics statements="16" coveredstatements="2" conditionals="6" coveredconditionals="0" methods="6" coveredmethods="0"/>
+        <file name="api.js" path="/home/larry/Dev/books/client/components/api.js">
+          <metrics statements="16" coveredstatements="2" conditionals="6" coveredconditionals="0" methods="6" coveredmethods="0"/>
+          <line num="2" count="1" type="stmt"/>
+          <line num="4" count="0" type="stmt"/>
+          <line num="5" count="0" type="cond" truecount="0" falsecount="2"/>
+          <line num="6" count="0" type="stmt"/>
+          <line num="11" count="0" type="cond" truecount="0" falsecount="2"/>
+          <line num="12" count="0" type="stmt"/>
+          <line num="14" count="0" type="stmt"/>
+          <line num="25" count="0" type="stmt"/>
+          <line num="29" count="1" type="stmt"/>
+          <line num="30" count="0" type="stmt"/>
+          <line num="32" count="0" type="stmt"/>
+          <line num="33" count="0" type="stmt"/>
+          <line num="38" count="0" type="cond" truecount="0" falsecount="2"/>
+          <line num="39" count="0" type="stmt"/>
+          <line num="41" count="0" type="stmt"/>
+          <line num="52" count="0" type="stmt"/>
+        </file>
+      </package>
+      <package name="components.common">
+        <metrics statements="17" coveredstatements="7" conditionals="4" coveredconditionals="0" methods="10" coveredmethods="4"/>
+        <file name="MainNav.jsx" path="/home/larry/Dev/books/client/components/common/MainNav.jsx">
+          <metrics statements="15" coveredstatements="6" conditionals="4" coveredconditionals="0" methods="9" coveredmethods="4"/>
+          <line num="10" count="1" type="stmt"/>
+          <line num="11" count="1" type="stmt"/>
+          <line num="20" count="0" type="stmt"/>
+          <line num="23" count="1" type="stmt"/>
+          <line num="26" count="1" type="stmt"/>
+          <line num="29" count="0" type="stmt"/>
+          <line num="32" count="0" type="stmt"/>
+          <line num="33" count="0" type="stmt"/>
+          <line num="35" count="0" type="stmt"/>
+          <line num="36" count="0" type="cond" truecount="0" falsecount="2"/>
+          <line num="41" count="0" type="cond" truecount="0" falsecount="2"/>
+          <line num="42" count="0" type="stmt"/>
+          <line num="43" count="0" type="stmt"/>
+          <line num="53" count="1" type="stmt"/>
+          <line num="54" count="1" type="stmt"/>
+        </file>
+        <file name="ResultRenderer.jsx" path="/home/larry/Dev/books/client/components/common/ResultRenderer.jsx">
+          <metrics statements="2" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+          <line num="5" count="1" type="stmt"/>
+          <line num="6" count="0" type="stmt"/>
+        </file>
+      </package>
+    </metrics>
+  </project>
+</coverage>
